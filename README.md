@@ -1,4 +1,4 @@
-Tata Data Analytics Virtual Internship 2025 – Task 1
+**Tata Data Analytics Virtual Internship 2025 – Task 1**
 
 This repository contains my work for Task 1 of the Tata Data Analytics Virtual Internship 2025. The task involved conducting an Exploratory Data Analysis (EDA) on the Geldium dataset provided through the GNI (Generative Natural Intelligence) platform.
 
